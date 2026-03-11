@@ -1,4 +1,3 @@
-# Movie_Recommendation_System
 # Movie Recommendation System
 
 A **content-based movie recommendation engine** built with Python and Streamlit. This application helps users discover movies similar to their favorites using the TMDB 5000 dataset and cosine similarity metrics. The app fetches real-time movie posters and ratings from The Movie Database (TMDB) API.
